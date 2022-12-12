@@ -1,5 +1,5 @@
 # Short Colorama Documentation
-
+Have fun!
 ### Setup (in cmd):
 ```
 $ pip install colorama
